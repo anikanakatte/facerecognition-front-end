@@ -1,3 +1,9 @@
-Face Recognition app built using React
+# Face Recognition - Front End
 
-The back end of the app is [here](https://github.com/anirudhkanakatte/facerecognition-back-end).
+Front end of face recognition application
+
+The back end is [here](https://github.com/anirudhkanakatte/facerecognition-back-end).
+
+## Built With
+
+* [React](https://reactjs.org) - Front end framework
